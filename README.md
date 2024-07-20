@@ -4,7 +4,7 @@
 This project is a deep learning model for detecting fake news articles. The model is built using Tensorflow and Keras, and it takes in a combination of article title, author, and text as input features to predict whether the article is fake or real.
 
 ## Dataset
-The dataset used for this project is the [Fake News Dataset](https://www.kaggle.com/c/fake-news/data) from Kaggle. The dataset contains articles from various news sources, along with their labels (fake or real).
+This project aims to classify news articles as fake or real using a Bidirectional LSTM neural network. The dataset used is from the [Kaggle Fake News Challenge](https://www.kaggle.com/c/fake-news/data).
 
 ## Preprocessing
 The dataset is preprocessed using the following steps:
