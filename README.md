@@ -1,7 +1,7 @@
 # Fake News Detection Model
 
 ## Overview
-This project is a machine learning model for detecting fake news articles. The model is built using Tensorflow and Keras, and it takes in a combination of article title, author, and text as input features to predict whether the article is fake or real.
+This project is a deep learning model for detecting fake news articles. The model is built using Tensorflow and Keras, and it takes in a combination of article title, author, and text as input features to predict whether the article is fake or real.
 
 ## Dataset
 The dataset used for this project is the [Fake News Dataset](https://www.kaggle.com/c/fake-news/data) from Kaggle. The dataset contains articles from various news sources, along with their labels (fake or real).
